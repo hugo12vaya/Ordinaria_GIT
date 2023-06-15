@@ -1,0 +1,13 @@
+Hugo Vaya Simeon
+Chanclas
+Bañador
+Tablet
+Portatil
+<<<<<<< HEAD
+Camiseta Hawaiana
+Gafas de sol
+=======
+Camiseta Havaiana
+Gafas de sol
+Disco portatil ssd
+>>>>>>> opcionales
